@@ -1,2 +1,1 @@
-# iotcaravantestbed
-IoTキャラバンテストベッド
+# IoTキャラバンテストベッド
